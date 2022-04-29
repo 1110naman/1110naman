@@ -3,7 +3,7 @@
 
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/1110naman)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:1110naman@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](linkedin.com/in/naman-agrawal-07767319a/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/1110naman/)
 [<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://twitter.com/1110naman/)
 [<img src="https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=Leetcode&logoColor=orange">](https://leetcode.com/1110naman)
 [<img src="https://img.shields.io/badge/Youtube-white.svg?&style=for-the-badge&logo=Youtube&logoColor=red">](https://www.youtube.com/channel/UCSVfa4_UpD8tzp_bm96giZA)
